@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: linear-gradient(#6e3296 0%, #27ae60 100%, #fc080c 20%);
+}
+
+.maindiv {
+    display: flex;
+    justify-content: center;
+}
+
+#subdiv {
+    margin-right: 30px;
+    margin-left: 100px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
